@@ -225,7 +225,6 @@
         eyebrow: "05 — Education",
         title: "Background",
         items: [
-          { date: "Oct 2026 — Oct 2027", school: "EFREI Paris", detail: "Admitted — Mastère Spécialisé® Manager Cybersécurité & Gouvernance." },
           { date: "2021 — 2026", school: "INSAT — National Institute of Applied Science and Technology", detail: "Software Engineering degree. Ranked 45th of 344 in the preparatory cycle, first choice into the Software Engineering track." },
           { date: "2021", school: "Jendouba Pioneer Prep School", detail: "Mathematics Baccalaureate, High Honors — 18.45/20." }
         ],
@@ -397,7 +396,6 @@
         eyebrow: "05 — Formation",
         title: "Parcours",
         items: [
-          { date: "Oct 2026 — Oct 2027", school: "EFREI Paris", detail: "Admis — Mastère Spécialisé® Manager Cybersécurité & Gouvernance." },
           { date: "2021 — 2026", school: "INSAT — Institut National des Sciences Appliquées et de Technologie", detail: "Diplôme d'ingénieur en Génie Logiciel. Classé 45e sur 344 à l'issue du cycle préparatoire, premier choix pour la spécialité Génie Logiciel." },
           { date: "2021", school: "Lycée Pilote de Jendouba", detail: "Baccalauréat Mathématiques, mention Très Bien — 18,45/20." }
         ],
